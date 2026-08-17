@@ -1,0 +1,9 @@
+{
+  "name": "Samir Zahri — Cinematic Portfolio",
+  "short_name": "Samir Zahri",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a09",
+  "theme_color": "#0a0a09",
+  "icons": [{"src":"./favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
